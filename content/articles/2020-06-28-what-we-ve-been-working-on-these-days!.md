@@ -28,19 +28,19 @@ $$a_{i+1}= \mu^\frac{1}{3}[(\frac{R}{D})\omega_{b}]^{-\frac{2}{3}}[1-\frac{3}{2}
 
 Where:
 
-$R$ = Integer number of orbits
+R = Integer number of orbits
 
-$D$ = Integer number of days
+D = Integer number of days
 
-$J_{2}$ = Second gravity coefficient
+J<sub>2</sub> = Second gravity coefficient
 
-$\omega_{b}$ = Inertial rotation rate of the Body
+&omega;<sub>b</sub> = Inertial rotation rate of the Body
 
-$r_{qb}$ = Equatorial radius of the Body
+r<sub>qb</sub> = Equatorial radius of the Body
 
-$i$ = Orbital inclination
+&iota; = Orbital inclination
 
-$\mu$ = Gravitational constant of the Body
+&mu; = Gravitational constant of the Body
 
 So do you know any satellite mission that has a repeat ground track orbit? There are just a bunch of them!. Just to mention, ICESat (Ice, Cloud, and land Elevation Satellite), was a satellite mission for measuring ice sheet mass balance, cloud and aerosol heights, as well as land topography and vegetation characteristics. If you visit, [National Snow & Ice Data center](https://nsidc.org/data/icesat/data.html), you may find some datasets coming from the different versions of ICESat.
 
